@@ -1,0 +1,11 @@
+c:\users\silver xu\source\repos\SpanSample\SpanSample\bin\Release\netcoreapp2.1\SpanSample.deps.json
+c:\users\silver xu\source\repos\SpanSample\SpanSample\bin\Release\netcoreapp2.1\SpanSample.runtimeconfig.json
+c:\users\silver xu\source\repos\SpanSample\SpanSample\bin\Release\netcoreapp2.1\SpanSample.runtimeconfig.dev.json
+c:\users\silver xu\source\repos\SpanSample\SpanSample\bin\Release\netcoreapp2.1\SpanSample.dll
+c:\users\silver xu\source\repos\SpanSample\SpanSample\bin\Release\netcoreapp2.1\SpanSample.pdb
+c:\users\silver xu\source\repos\SpanSample\SpanSample\obj\Release\netcoreapp2.1\SpanSample.csproj.CoreCompileInputs.cache
+c:\users\silver xu\source\repos\SpanSample\SpanSample\obj\Release\netcoreapp2.1\SpanSample.AssemblyInfoInputs.cache
+c:\users\silver xu\source\repos\SpanSample\SpanSample\obj\Release\netcoreapp2.1\SpanSample.AssemblyInfo.cs
+c:\users\silver xu\source\repos\SpanSample\SpanSample\obj\Release\netcoreapp2.1\SpanSample.dll
+c:\users\silver xu\source\repos\SpanSample\SpanSample\obj\Release\netcoreapp2.1\SpanSample.pdb
+C:\Users\Silver Xu\source\repos\SpanSample\SpanSample\obj\Release\netcoreapp2.1\SpanSample.csprojAssemblyReference.cache

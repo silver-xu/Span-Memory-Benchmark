@@ -1,0 +1,11 @@
+C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\bin\Debug\netcoreapp2.1\SpanMemoryBenchmark.deps.json
+C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\bin\Debug\netcoreapp2.1\SpanMemoryBenchmark.runtimeconfig.json
+C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\bin\Debug\netcoreapp2.1\SpanMemoryBenchmark.runtimeconfig.dev.json
+C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\bin\Debug\netcoreapp2.1\SpanMemoryBenchmark.dll
+C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\bin\Debug\netcoreapp2.1\SpanMemoryBenchmark.pdb
+C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\obj\Debug\netcoreapp2.1\SpanMemoryBenchmark.csprojAssemblyReference.cache
+C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\obj\Debug\netcoreapp2.1\SpanMemoryBenchmark.csproj.CoreCompileInputs.cache
+C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\obj\Debug\netcoreapp2.1\SpanMemoryBenchmark.AssemblyInfoInputs.cache
+C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\obj\Debug\netcoreapp2.1\SpanMemoryBenchmark.AssemblyInfo.cs
+C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\obj\Debug\netcoreapp2.1\SpanMemoryBenchmark.dll
+C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\obj\Debug\netcoreapp2.1\SpanMemoryBenchmark.pdb
