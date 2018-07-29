@@ -8,3 +8,4 @@ C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\obj\Release\netcoreapp
 C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\obj\Release\netcoreapp2.1\SpanMemoryBenchmark.AssemblyInfo.cs
 C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\obj\Release\netcoreapp2.1\SpanMemoryBenchmark.dll
 C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\obj\Release\netcoreapp2.1\SpanMemoryBenchmark.pdb
+C:\repositories\Span-Memory-Benchmark\SpanMemoryBenchmark\obj\Release\netcoreapp2.1\SpanMemoryBenchmark.csprojAssemblyReference.cache

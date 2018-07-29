@@ -9,8 +9,8 @@ Intel Core i7-6650U CPU 2.20GHz (Max: 2.21GHz) (Skylake), 1 CPU, 4 logical and 2
 Job=Core  Runtime=Core  
 
 ```
-|        Method |      Mean |     Error |    StdDev | Rank |    Gen 0 | Allocated |
-|-------------- |----------:|----------:|----------:|-----:|---------:|----------:|
-|     TestSlice |  8.563 us | 0.1684 us | 0.2813 us |    1 |   0.7782 |    1.6 KB |
-| TestSubString | 46.536 us | 0.9307 us | 2.2120 us |    3 | 136.2915 | 279.27 KB |
-|    TestMemory |  9.126 us | 0.1811 us | 0.3026 us |    2 |   0.7782 |    1.6 KB |
+|          Method |      Mean |     Error |    StdDev | Rank |    Gen 0 | Allocated |
+|---------------- |----------:|----------:|----------:|-----:|---------:|----------:|
+|   TestSpanSlice |  9.735 us | 0.3273 us | 0.9652 us |    2 |   0.7782 |    1.6 KB |
+|   TestSubString | 49.602 us | 1.9103 us | 5.5725 us |    3 | 135.7422 | 278.08 KB |
+| TestMemorySlice |  9.114 us | 0.1819 us | 0.3326 us |    1 |   0.7782 |    1.6 KB |

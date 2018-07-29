@@ -19,7 +19,7 @@ namespace SpanSample
     public class Benchmarks
     {
         [Benchmark]
-        public void TestSlice()
+        public void TestSpanSlice()
         {
             var chars = GetRandomString().AsSpan();
 
@@ -43,7 +43,7 @@ namespace SpanSample
         }
 
         [Benchmark]
-        public void TestMemory()
+        public void TestMemorySlice()
         {
             var chars = GetRandomString().AsMemory();
 
